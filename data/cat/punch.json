@@ -1,0 +1,16 @@
+{
+  "tiles": [
+    "forwardneutral",
+    "backwardneutral",
+    "sidewaysneutral",
+    "forwardraised",
+    "backwardraised",
+    "sidewaysraised",
+    "forwardextend",
+    "backwardextend",
+    "sidewaysextend",
+    "forwardout",
+    "backwardout",
+    "sidewaysout"
+  ]
+}

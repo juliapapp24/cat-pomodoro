@@ -1,0 +1,10 @@
+{
+  "tiles": [
+    "forwardup",
+    "backwardup",
+    "sidewaysup",
+    "forwarddown",
+    "backwarddown",
+    "sidewaysdown"
+  ]
+}

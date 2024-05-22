@@ -1,0 +1,16 @@
+{
+  "tiles": [
+    "forwardstill",
+    "backwardstill",
+    "sidewaysstill",
+    "forwardrightwalk",
+    "backwardrightwalk",
+    "sidewaysrightwalk",
+    "forwardstill",
+    "backwardstill",
+    "sidewaysstill",
+    "forwardleftwalk",
+    "backwardleftwalk",
+    "sidewaysleftwalk"
+  ]
+}

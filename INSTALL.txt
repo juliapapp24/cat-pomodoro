@@ -1,0 +1,9 @@
+Installation Instructions
+
+To install required libraries:
+    - If on Mac OS X: Make sure XQuartz is installed: https://www.xquartz.org
+    - If on Windows/Linux: Make sure x11 window manager is installed
+    - Update opam if needed
+    - Run [opam install graphics]
+
+To run program, in command line, type "make run". Enjoy!
